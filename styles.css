@@ -6,3 +6,9 @@ body {
 .container {
   border: 1px solid #555555;
 }
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
